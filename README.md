@@ -46,4 +46,19 @@ Proof automation, advanced type theories, big players in theorem proving (Isabel
     
 ## REFERENCES    
     
-  .
+* [COG250](https://www.youtube.com/playlist?list=PL4aJN35xvM_r3o1CqvBuk1948HYNPcqZK)
+* [CS221](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2), also [Logic Stanford](https://www.youtube.com/playlist?list=PLh7QmcIRQB-uiOS4GMlBbq0jkvtqhqtq0)
+* (useful?) [Formal Methods and Tools for Distributed Systems by Thomas Ball](https://www.youtube.com/watch?v=O4rrm6ZMbug)
+* [Engineering Ontology](https://www.youtube.com/playlist?list=PLyngZgIl3WTiUmcchT_Zf2peiEZwx72G_)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
