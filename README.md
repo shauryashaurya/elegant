@@ -1,5 +1,5 @@
 # *ELEGANT*  
-Building **proof checkers** from scratch in Python and CoQ.  
+Building **proof checkers** from scratch in Python and coq / rocq.  
   
 <html> 
 	<img src="./images/elegant-1024.png" width="90%" align="center" alt="Elegant: building proof checkers in python and coq, © Shaurya Agarwal" />  
@@ -45,10 +45,18 @@ Step-by-step coding of a minimal formal system in Coq, verifying correctness, an
 Proof automation, advanced type theories etc. etc.  
     
 ## REFERENCES    
-    
-* [COG250](https://www.youtube.com/playlist?list=PL4aJN35xvM_r3o1CqvBuk1948HYNPcqZK)
-* [CS221](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2), also [Logic Stanford](https://www.youtube.com/playlist?list=PLh7QmcIRQB-uiOS4GMlBbq0jkvtqhqtq0)
-* (useful?) [Formal Methods and Tools for Distributed Systems by Thomas Ball](https://www.youtube.com/watch?v=O4rrm6ZMbug)
+  
+Unsorted and in no order of preference or relevance.
+     
+#### videos
+* [ROCQ](https://rocq-prover.org/)
+* [The Coq Proof Assistant](https://coq.inria.fr/documentation)  
+* [Video tutorials for the Coq proof assistant](https://math.andrej.com/2011/02/22/video-tutorials-for-the-coq-proof-assistant/)  
+* [DSSS17](https://www.youtube.com/playlist?list=PLovJjGVqXXf3RgVdCXH96pPwSjFLDhSri)  
+* [Software Foundations in Coq](https://www.youtube.com/playlist?list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs)  
+* [COG250](https://www.youtube.com/playlist?list=PL4aJN35xvM_r3o1CqvBuk1948HYNPcqZK)  
+* [CS221](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2), also [Logic Stanford](https://www.youtube.com/playlist?list=PLh7QmcIRQB-uiOS4GMlBbq0jkvtqhqtq0)  
+* (useful?) [Formal Methods and Tools for Distributed Systems by Thomas Ball](https://www.youtube.com/watch?v=O4rrm6ZMbug)  
 * [Engineering Ontology](https://www.youtube.com/playlist?list=PLyngZgIl3WTiUmcchT_Zf2peiEZwx72G_)
 * [The Coq Proof Assistant](https://www.youtube.com/playlist?list=PLt7hcIEdZLAnO7AawDQkHwE7RtwPDOFEc)
 * [Formal Analysis, Theory and Algorithms (FATA)](https://www.youtube.com/playlist?list=PL9HHN1wvmtonuhOHxgTvciWXo1YKMq8s7)
@@ -73,4 +81,13 @@ Proof automation, advanced type theories etc. etc.
 * [finite state machines](https://www.youtube.com/playlist?list=PLLOaAE6VrtlRu6VI7gKVd9fw9ONRL3LJx)
 * (useful?) [Emerging AGI](https://www.youtube.com/playlist?list=PLQ7kdul7PF0dNb7PBYNlBb23NQmHoC78O)
 * (***Fun!***) [Godel Escher Bach](https://www.youtube.com/playlist?list=PLBEB6BD2E6633E0CB)
-* []()
+  
+#### Books
+  
+The ROCQ / COQ sites are better resources for these.
+* [Mathematical Components](https://math-comp.github.io/mcb/)
+* [Programs and Proofs: Mechanizing Mathematics with Dependent Types](https://ilyasergey.net/pnp/)
+* [Formal Reasoning About Programs](http://adam.chlipala.net/frap/), [GitHub](https://github.com/achlipala/frap)
+* [Coq'Art Examples and Exercises](https://coq-community.org/coq-art/)
+[]()  
+[]()  
