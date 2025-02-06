@@ -47,10 +47,14 @@ Proof automation, advanced type theories etc. etc.
 ## REFERENCES    
   
 Unsorted and in no order of preference or relevance.
-     
-#### videos
+    
+    
+#### enablers   
 * [ROCQ](https://rocq-prover.org/)
-* [The Coq Proof Assistant](https://coq.inria.fr/documentation)  
+* [The Coq Proof Assistant](https://coq.inria.fr/documentation)
+
+    
+#### videos   
 * [Video tutorials for the Coq proof assistant](https://math.andrej.com/2011/02/22/video-tutorials-for-the-coq-proof-assistant/)  
 * [DSSS17](https://www.youtube.com/playlist?list=PLovJjGVqXXf3RgVdCXH96pPwSjFLDhSri)  
 * [Software Foundations in Coq](https://www.youtube.com/playlist?list=PLre5AT9JnKShFK9l9HYzkZugkJSsXioFs)  
